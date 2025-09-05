@@ -6,6 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Meu App</Text>
       <BotaoVermelho/>
+      <Text>Isso é um botão vermelho</Text>
     </View>
   );
 }
